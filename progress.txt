@@ -1,0 +1,1 @@
+2025-08-23: Installed Python and VS Code. Step 1 done!
